@@ -1,7 +1,8 @@
 Student name:
 aniket
 rahul
-ajinkya
+
+
 prathamesh
 amola
 soham
